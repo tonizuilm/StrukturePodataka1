@@ -1,0 +1,6 @@
+﻿  Zad10.c
+C:\Users\Korisnik\Desktop\SP\Zadatak10\Zadatak10\Zad10.c(178,22): warning C4047: 'return': 'TownPosition' differs in levels of indirection from 'int'
+C:\Users\Korisnik\Desktop\SP\Zadatak10\Zadatak10\Zad10.c(248,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Korisnik\Desktop\SP\Zadatak10\Zadatak10\Zad10.c(248,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Korisnik\Desktop\SP\Zadatak10\Zadatak10\Zad10.c(248,10): message : the missing variadic argument 1 is required by format string '%s'
+  Zadatak10.vcxproj -> C:\Users\Korisnik\Desktop\SP\Zadatak10\x64\Debug\Zadatak10.exe

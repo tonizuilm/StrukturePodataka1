@@ -1,0 +1,6 @@
+﻿  zad5.c
+C:\Users\Korisnik\Desktop\SP\Zadatak5\Zadatak5\zad5.c(33,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Korisnik\Desktop\SP\Zadatak5\Zadatak5\zad5.c(33,15): warning C4024: 'ReadFromFile': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\SP\Zadatak5\Zadatak5\zad5.c(35,29): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Korisnik\Desktop\SP\Zadatak5\Zadatak5\zad5.c(35,23): warning C4024: 'StringToStack': different types for formal and actual parameter 2
+  Zadatak5.vcxproj -> C:\Users\Korisnik\Desktop\SP\Zadatak5\x64\Debug\Zadatak5.exe

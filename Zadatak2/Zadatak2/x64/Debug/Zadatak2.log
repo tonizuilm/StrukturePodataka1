@@ -1,0 +1,3 @@
+﻿  zad.c
+C:\Users\Korisnik\Desktop\3. semestar\strukturepodataka\Zadatak2\Zadatak2\zad.c(260,15): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+  Zadatak2.vcxproj -> C:\Users\Korisnik\Desktop\3. semestar\strukturepodataka\Zadatak2\x64\Debug\Zadatak2.exe

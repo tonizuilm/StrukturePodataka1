@@ -1,0 +1,5 @@
+﻿  zad8.c
+C:\Users\Korisnik\Desktop\SP\Zadatak8\Zadatak8\zad8.c(168,13): warning C4047: 'return': 'int' differs in levels of indirection from 'Position'
+C:\Users\Korisnik\Desktop\SP\Zadatak8\Zadatak8\zad8.c(293,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Position'
+C:\Users\Korisnik\Desktop\SP\Zadatak8\Zadatak8\zad8.c(293,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'Position'
+  Zadatak8.vcxproj -> C:\Users\Korisnik\Desktop\SP\Zadatak8\x64\Debug\Zadatak8.exe
